@@ -486,7 +486,6 @@ Date: 2026.8
 
 ---
 
-# License
+# 补充说明
 
-This project is only used for learning and algorithm practice.
-
+本项目为凌风战队算法组培训练习产出，仅用于队内技术学习与交流。
