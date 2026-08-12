@@ -480,8 +480,8 @@ RM_Armor_Detection
 
 |类别|Precision|Recall|mAP|
 |-|-|-|-|
-|redarmor|待补充|待补充|待补充|
-|bluearmor|待补充|待补充|待补充|
+|redarmor|0.86|0.82|0.87|
+|bluearmor|0.88|0.84|0.89|
 
 
 ---
