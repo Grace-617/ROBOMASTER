@@ -521,5 +521,3 @@ Gai Sihan
 
 
 Computer Vision Algorithm Practice
-
-完成时间：2026年
