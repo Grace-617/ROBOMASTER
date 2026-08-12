@@ -1,0 +1,24 @@
+# 数据集路径
+
+path: ../dataset
+
+
+train: images/train
+
+val: images/val
+
+
+
+# 类别数量
+
+nc: 2
+
+
+
+# 类别名称
+
+names:
+
+  0: redarmor
+
+  1: bluearmor
