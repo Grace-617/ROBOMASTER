@@ -1,0 +1,6 @@
+ultralytics==8.4.63
+opencv-python>=4.5.0
+numpy>=1.23.0
+torch>=2.0.0
+torchvision
+pip install -r requirements.txt
